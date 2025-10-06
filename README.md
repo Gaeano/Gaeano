@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Gaeano
+<!--image-->
+## About me
+- 👧🏻 I am Frances Anna Gaea Mutia
+- 💻 A Second Year BS Information Technology Student 
+- 📍 University of San Carlos
 <!--
 **Gaeano/Gaeano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
