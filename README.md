@@ -1,17 +1,25 @@
-# Gaeano
+<h1>Hi Im Gaeano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<p >
+  <img src="gaeano.jpg" width="250" style="margin-right: 20px; border-radius: 10px;"/>
+<!--HEHEHE-->
+</p>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="gaeano.jpg" width="300" style="border-radius: 10px;">
+<h2>About Me</h2>
+<ul style="margin-left: 10px">
+<li>👧🏻<strong>Frances Anna Gaea Mutia (Gaeano)</strong></li>
+<li>💻 A Second Year <strong>BS Information Technology Student</strong></li>
+<li>📍<strong>University of San Carlos</strong></li>
+<li>🎮 I enjoy playing Video <strong>Games</strong></li>
+</ul>
 
-  <div>
-    <h2>About Me</h2>
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li>👧🏻 I am <strong>Frances Anna Gaea Mutia</strong></li>
-      <li>💻 A Second Year <strong>BS Information Technology</strong> Student</li>
-      <li>📍 <strong>University of San Carlos</strong></li>
-    </ul>    
-  </div>
-</div>
+### Skills 
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 
 
