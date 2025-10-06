@@ -12,6 +12,7 @@
   <li>💻 A Second Year <strong>BS Information Technology Student</strong></li>
   <li>📍 University of San Carlos</li>
   <li>🎮 I enjoy playing Video Games</li>
+  <li>📖 Currently trying to pass <strong>DSA</strong></li>
 </ul>
 
 ### Skills
