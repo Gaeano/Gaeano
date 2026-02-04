@@ -1,4 +1,4 @@
-<h1>Hi I'm Gaeano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi I'm Gaea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="gaeano.jpg" width="250" style="border-radius: 10px;" />
