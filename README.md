@@ -3,7 +3,7 @@
 <p align="center">
   <img src="gaeano.jpg" width="250" style="border-radius: 10px;" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="300" />
+  <img src="hacker-cat.gif"width="300" />
 </p>
 
 <h2>About Me</h2>
