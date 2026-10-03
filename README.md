@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 <ul style="margin-left: 10px">
   <li>👧🏻 <strong>Frances Anna Gaea Mutia (Gaeano)</strong></li>
-  <li>💻 A Second Year <strong>BS Information Technology Student</strong></li>
+  <li>💻 A Third Year <strong>BS Information Technology Student</strong></li>
   <li>📍 University of San Carlos</li>
   <li>🎮 I enjoy playing Video Games</li>
   <li> 👩‍💻 I find programming fun...</li>
